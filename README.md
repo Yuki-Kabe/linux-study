@@ -2,7 +2,7 @@
 docker-compose up -d 
 
 2. docker ps で linux-studyコンテナのSTATUSがUpになっていることを確認<br>
-2.1. 何も表示されない場合(exitedの状態)は次を実行<br>
+2.1. docker ps で何も表示されない場合(exitedの状態)は次を実行<br>
 docker restart linux-study
 
 3. 次を実行(コンテナに入ってbashを起動する)<br>
