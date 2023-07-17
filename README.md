@@ -2,4 +2,4 @@
 Linuxのしくみ<br>
 作業フォルダはwork
 
-## 環境構築は setup_environmnet ブランチ
+## 環境構築は set_up_environmnet ブランチ
